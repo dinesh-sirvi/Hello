@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A simple chat app to demonstrate real-time application in node.js using socket.io. ",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinesh Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
